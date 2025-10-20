@@ -44,3 +44,7 @@ BIOS variables are memory values that describe the hardware state or configurati
 **Interrupt vectors** are also called IVT( interrupt vector table ), and are located in the first 1kb memory(0x000-0x03FF).
 
 **BIOS TABLES** - are structured memory areas that store hardware and boot info
+
+
+# **COMPILER**
+
