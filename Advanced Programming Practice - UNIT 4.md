@@ -50,17 +50,17 @@
   - [x] Message Passing
   - [x] Data Parallel
   - [x] Shared Memory
-  - [x] Remote Memory Operation
+	- [x] Remote Memory Operation
   - [x] Threads
   - [x] Combined Models
-- [ ] Steps in Parallelism
-- [ ] Ways for Parallelism
-  - [ ] Functional Decomposition
-  - [ ] Domain Decomposition
+- [x] Steps in Parallelism
+- [x] Ways for Parallelism
+  - [x] Functional Decomposition
+  - [x] Domain Decomposition
 - [ ] Parallel Programming Models
-  - [ ] Phase Parallel Model
-  - [ ] Divide and Conquer Model
-  - [ ] Pipeline Model
+  - [x] Phase Parallel Model
+  - [x] Divide and Conquer Model
+  - [x] Pipeline Model
   - [ ] Process Farm Model
   - [ ] Work Pool Model
 - [ ] Parallel Program using Python
@@ -78,11 +78,11 @@
 - [ ] Producer-Consumer Problem using Threads
 
 ## Network Programming Paradigm
-- [ ] Socket Programming
+- [x] Socket Programming
 - [ ] Socket Types
 - [ ] Creation and Configuration of Sockets
 - [ ] TCP/UDP Client-Server Model
-- [ ] What is Socket?
+- [x] What is Socket?
 - [ ] Socket Types
 - [ ] Socket in Python
   - [ ] Socket Creation

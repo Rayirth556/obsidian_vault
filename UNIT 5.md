@@ -1,0 +1,78 @@
+# Unit 5: Formal and Symbolic Programming Paradigm - Topics Checklist
+
+## 1. Automata Based Programming Paradigm
+- [ ] Finite Automata – DFA and NFA
+  - [ ] Introduction to Simple Computer
+  - [ ] Types of Automata
+  - [ ] Alphabets and strings
+  - [ ] Languages
+  - [ ] Deterministic Finite Automata (DFA)
+    - [ ] Definition and components (5-tuple)
+    - [ ] Language of a DFA
+    - [ ] Examples of DFA
+    - [ ] Implementing DFA using Automaton Library in Python
+    - [ ] Table Representation of DFA
+    - [ ] Sample Exercises - DFA
+  - [ ] Nondeterministic Finite Automata (NFA)
+    - [ ] Definition and components
+    - [ ] Example NFA
+    - [ ] Table representation of NFA
+    - [ ] Examples and algorithms
+    - [ ] Transform a Regular Expression into a Finite Automaton
+    - [ ] Implementing NFA using Automaton Library in Python
+    - [ ] Sample Exercises - NFA
+
+## 2. Symbolic Programming Paradigm
+- [ ] Introduction to Symbolic Programming
+  - [ ] Definition and concepts
+  - [ ] Applications (AI, expert systems, NLP, games)
+  - [ ] Languages supporting symbolic programming (LISP, Prolog)
+- [ ] Sympy - Symbolic Mathematics in Python
+  - [ ] Installation and setup
+  - [ ] Mathematical Operations Using Sympy
+    - [ ] Rational numbers
+    - [ ] Special constants (e, pi, oo)
+    - [ ] Symbols and variables
+  - [ ] Calculus
+    - [ ] Limits using `limit()`
+    - [ ] Differentiation using `diff()`
+    - [ ] Integration using `integrate()`
+    - [ ] Series expansion using `series()`
+  - [ ] Algebraic Manipulations
+    - [ ] Expand expressions using `expand()`
+    - [ ] Simplify expressions using `simplify()`
+    - [ ] Trigonometric simplification using `trigsimp()`
+  - [ ] Equation Solving
+    - [ ] Solving equations using `solve()` and `solveset()`
+  - [ ] Matrix Operations
+    - [ ] Working with matrices in SymPy
+
+## 3. Event Programming Paradigm
+- [ ] Event Driven Programming Paradigm
+  - [ ] Introduction and concepts
+  - [ ] Event handlers
+  - [ ] Trigger functions
+  - [ ] Types of events (mouse, keyboard, UI)
+- [ ] GUI Using Python
+  - [ ] Tkinter
+  - [ ] wxPython
+  - [ ] PyQt
+  - [ ] JPython
+- [ ] Tkinter Programming
+  - [ ] Creating GUI application steps
+  - [ ] Tkinter widgets overview
+  - [ ] Geometry Managers
+    - [ ] `pack()` method
+    - [ ] `grid()` method
+    - [ ] `place()` method
+  - [ ] Common Widget Properties
+  - [ ] Specific Widgets:
+    - [ ] Label Widgets
+    - [ ] Button Widgets
+    - [ ] Entry Widgets
+    - [ ] Canvas
+    - [ ] Checkbutton
+    - [ ] Radiobutton
+    - [ ] Scale
+    - [ ] Spinbox
+    - [ ] Menubutton
