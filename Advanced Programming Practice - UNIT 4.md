@@ -40,9 +40,8 @@
 - [ ] Examples and Relationships
 
 ## Parallel Programming Paradigm
-- [ ] Shared and Distributed Memory
-- [ ] Multi-Processing
-- [ ] IPython
+- [x] Shared and Distributed Memory
+- [x] Multi-Processing
 - [x] Introduction to Parallelism
 - [x] Explicit Parallelism
 - [x] Implicit Parallelism
@@ -63,31 +62,31 @@
   - [x] Pipeline Model
   - [ ] Process Farm Model
   - [ ] Work Pool Model
-- [ ] Parallel Program using Python
-  - [ ] Using Threads
-  - [ ] Using Processes
+- [x] Parallel Program using Python
+  - [x] Using Threads
+  - [x] Using Processes
 
 ## Concurrent Programming Paradigm
-- [ ] Issues in Concurrent Programming
-- [ ] Race Conditions
-- [ ] Synchronization in Python
-  - [ ] LOCK
-  - [ ] RLock
-  - [ ] Semaphore
-  - [ ] Event
-- [ ] Producer-Consumer Problem using Threads
+- [x] Issues in Concurrent Programming
+- [x] Race Conditions
+- [x] Synchronization in Python
+  - [x] LOCK
+  - [x] RLock
+  - [x] Semaphore
+  - [x] Event
+- [x] Producer-Consumer Problem using Threads
 
 ## Network Programming Paradigm
 - [x] Socket Programming
-- [ ] Socket Types
-- [ ] Creation and Configuration of Sockets
-- [ ] TCP/UDP Client-Server Model
+- [x] Socket Types
+- [x] Creation and Configuration of Sockets
+- [x] TCP/UDP Client-Server Model
 - [x] What is Socket?
-- [ ] Socket Types
-- [ ] Socket in Python
-  - [ ] Socket Creation
-  - [ ] Client/Server Symmetry
-- [ ] Simple TCP Server
-- [ ] Simple TCP Client
-- [ ] Simple UDP Server
-- [ ] Simple UDP Client
+- [x] Socket Types
+- [x] Socket in Python
+  - [x] Socket Creation
+  - [x] Client/Server Symmetry
+- [x] Simple TCP Server
+- [x] Simple TCP Client
+- [x] Simple UDP Server
+- [x] Simple UDP Client

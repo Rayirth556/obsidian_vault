@@ -196,10 +196,5 @@ Examples: Merge sort, quick sort, matrix multiplication, binary search trees, fo
 In this model, the number of processes create a form of virtual pipeline, and then this pipeline is fed a continuous stream of data, which is executed at different stages of the pipeline simultaneously in an overlapped fashion. 
 
 
-
-## Network programming
-
-# socket
-so what is a socket
-A socket is basically a software endpoint that enables bidirectional communication between processes whether they are on the same machine or across the world 
-A socket is a combination of IP address and port number.
+SEMAPHORE:
+A semaphore uses an internal counter instead of a binary lock flag. The counter counts the number of threads that have attempted to hold the semaphore. It allows limited number of threads to access a code simultaneosly unlike locks, which allow only one thread at a time. 

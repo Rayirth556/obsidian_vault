@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIT 5.md",
+                "file": "UNIT 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIT 5"
+              "title": "UNIT 4"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1433ab5dca1dc02f",
+  "active": "9e6a3ba92b66db67",
   "lastOpenFiles": [
     "UNIT 4.md",
-    "Advanced Programming Practice - UNIT 4.md",
     "UNIT 5.md",
+    "Advanced Programming Practice - UNIT 4.md",
     "This remains UNTITLED.md",
     "Untitled.md",
     "Algorithms/ALGORITHMS.md",

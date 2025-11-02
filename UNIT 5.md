@@ -23,27 +23,27 @@
     - [ ] Sample Exercises - NFA
 
 ## 2. Symbolic Programming Paradigm
-- [ ] Introduction to Symbolic Programming
-  - [ ] Definition and concepts
-  - [ ] Applications (AI, expert systems, NLP, games)
-  - [ ] Languages supporting symbolic programming (LISP, Prolog)
-- [ ] Sympy - Symbolic Mathematics in Python
-  - [ ] Installation and setup
-  - [ ] Mathematical Operations Using Sympy
-    - [ ] Rational numbers
-    - [ ] Special constants (e, pi, oo)
-    - [ ] Symbols and variables
-  - [ ] Calculus
-    - [ ] Limits using `limit()`
-    - [ ] Differentiation using `diff()`
-    - [ ] Integration using `integrate()`
-    - [ ] Series expansion using `series()`
-  - [ ] Algebraic Manipulations
-    - [ ] Expand expressions using `expand()`
-    - [ ] Simplify expressions using `simplify()`
-    - [ ] Trigonometric simplification using `trigsimp()`
-  - [ ] Equation Solving
-    - [ ] Solving equations using `solve()` and `solveset()`
+- [x] Introduction to Symbolic Programming
+  - [x] Definition and concepts
+  - [x] Applications (AI, expert systems, NLP, games)
+  - [x] Languages supporting symbolic programming (LISP, Prolog)
+- [x] Sympy - Symbolic Mathematics in Python
+  - [x] Installation and setup
+  - [x] Mathematical Operations Using Sympy
+    - [x] Rational numbers
+    - [x] Special constants (e, pi, oo)
+    - [x] Symbols and variables
+  - [x] Calculus
+    - [x] Limits using `limit()`
+    - [x] Differentiation using `diff()`
+    - [x] Integration using `integrate()`
+    - [x] Series expansion using `series()`
+  - [x] Algebraic Manipulations
+    - [x] Expand expressions using `expand()`
+    - [x] Simplify expressions using `simplify()`
+    - [x] Trigonometric simplification using `trigsimp()`
+  - [x] Equation Solving
+    - [x] Solving equations using `solve()` and `solveset()`
   - [ ] Matrix Operations
     - [ ] Working with matrices in SymPy
 
