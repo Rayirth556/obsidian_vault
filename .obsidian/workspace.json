@@ -35,8 +35,7 @@
               "title": "Advanced Programming Practice - UNIT 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1433ab5dca1dc02f",
+  "active": "2b77472e0673607b",
   "lastOpenFiles": [
-    "UNIT 4.md",
     "Advanced Programming Practice - UNIT 4.md",
+    "UNIT 4.md",
     "This remains UNTITLED.md",
     "Untitled.md",
     "Algorithms/ALGORITHMS.md",

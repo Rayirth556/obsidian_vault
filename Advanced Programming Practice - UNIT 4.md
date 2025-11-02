@@ -43,16 +43,16 @@
 - [ ] Shared and Distributed Memory
 - [ ] Multi-Processing
 - [ ] IPython
-- [ ] Introduction to Parallelism
-- [ ] Explicit Parallelism
-- [ ] Implicit Parallelism
-- [ ] Methods for Parallelism
-  - [ ] Message Passing
-  - [ ] Data Parallel
-  - [ ] Shared Memory
-  - [ ] Remote Memory Operation
-  - [ ] Threads
-  - [ ] Combined Models
+- [x] Introduction to Parallelism
+- [x] Explicit Parallelism
+- [x] Implicit Parallelism
+- [x] Methods for Parallelism
+  - [x] Message Passing
+  - [x] Data Parallel
+  - [x] Shared Memory
+  - [x] Remote Memory Operation
+  - [x] Threads
+  - [x] Combined Models
 - [ ] Steps in Parallelism
 - [ ] Ways for Parallelism
   - [ ] Functional Decomposition
